@@ -43,5 +43,14 @@ Basic Usage:
 
 python3 idor_hunter.py --url URL --cookie "Cookie: COOKIE"
 
+![image](https://user-images.githubusercontent.com/79543461/171822048-599cce83-656b-4a3e-9cb6-a02527db2545.png)
+
+With Proxy:
+
+python3 idor_hunter.py --url URL --cookie "Cookie: COOKIE" --proxy http://127.0.0.1:8080
+
+![image](https://user-images.githubusercontent.com/79543461/171822595-3589d42e-1ff1-4079-8b36-0c3a0a910509.png)
+
+
 
 
